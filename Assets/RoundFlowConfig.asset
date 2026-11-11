@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc644e4b5486c9438a480a0c329444f, type: 3}
+  m_Name: RoundFlowConfig
+  m_EditorClassIdentifier: Assembly-CSharp::RoundFlowConfig
+  bonusTiers:
+  - minLitBombs: 20
+    points: 10000
+  - minLitBombs: 21
+    points: 20000
+  - minLitBombs: 22
+    points: 30000
+  - minLitBombs: 23
+    points: 50000
+  clearHoldDelay: 0.6
+  bonusPreDelay: 1.5
+  countdownPointsPerSecond: 20000
+  bonusPostDelay: 1.5
+  respawnDelay: 1.5
+  finalScene: 

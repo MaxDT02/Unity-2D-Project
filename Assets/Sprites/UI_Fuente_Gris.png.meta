@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 3d8363606249c9a4baa76a8b97801bc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2137445162114019032
+    second: UI_Fuente_Gris_0
+  - first:
+      213: -7826979100441521098
+    second: UI_Fuente_Gris_1
+  - first:
+      213: -8110912554304466376
+    second: UI_Fuente_Gris_2
+  - first:
+      213: 3008852579982658782
+    second: UI_Fuente_Gris_3
+  - first:
+      213: -404111170458555639
+    second: UI_Fuente_Gris_4
+  - first:
+      213: 5100232888407005018
+    second: UI_Fuente_Gris_5
+  - first:
+      213: -626042459702253221
+    second: UI_Fuente_Gris_6
+  - first:
+      213: -1879848700323201575
+    second: UI_Fuente_Gris_7
+  - first:
+      213: -4025168616610421839
+    second: UI_Fuente_Gris_8
+  - first:
+      213: 1536253369300873533
+    second: UI_Fuente_Gris_9
+  - first:
+      213: 4521759579416365373
+    second: UI_Fuente_Gris_10
+  - first:
+      213: -6743862580046558214
+    second: UI_Fuente_Gris_11
+  - first:
+      213: 4865317451835900697
+    second: UI_Fuente_Gris_12
+  - first:
+      213: 5060919466377605860
+    second: UI_Fuente_Gris_13
+  - first:
+      213: -7861659816570206907
+    second: UI_Fuente_Gris_14
+  - first:
+      213: -7075181478053783519
+    second: UI_Fuente_Gris_15
+  - first:
+      213: 2287795040827977577
+    second: UI_Fuente_Gris_16
+  - first:
+      213: -1787699508063065913
+    second: UI_Fuente_Gris_17
+  - first:
+      213: -4070941929021981925
+    second: UI_Fuente_Gris_18
+  - first:
+      213: -8361841534081801837
+    second: UI_Fuente_Gris_19
+  - first:
+      213: -6936305412920630064
+    second: UI_Fuente_Gris_20
+  - first:
+      213: -8979727541755063247
+    second: UI_Fuente_Gris_21
+  - first:
+      213: -907103799147239165
+    second: UI_Fuente_Gris_22
+  - first:
+      213: 8545176790737392387
+    second: UI_Fuente_Gris_23
+  - first:
+      213: 5658013411900959506
+    second: UI_Fuente_Gris_24
+  - first:
+      213: -5187461807457850188
+    second: UI_Fuente_Gris_25
+  - first:
+      213: 2226427643565136805
+    second: UI_Fuente_Gris_26
+  - first:
+      213: 6256224659228938691
+    second: UI_Fuente_Gris_27
+  - first:
+      213: 819614643568030991
+    second: UI_Fuente_Gris_28
+  - first:
+      213: 7487115782526895161
+    second: UI_Fuente_Gris_29
+  - first:
+      213: -2120071471489080480
+    second: UI_Fuente_Gris_30
+  - first:
+      213: -6091388051496660616
+    second: UI_Fuente_Gris_31
+  - first:
+      213: -6283455908792236216
+    second: UI_Fuente_Gris_32
+  - first:
+      213: -6984715844238414256
+    second: UI_Fuente_Gris_33
+  - first:
+      213: 4482298906678350003
+    second: UI_Fuente_Gris_34
+  - first:
+      213: -239555820173328957
+    second: UI_Fuente_Gris_35
+  - first:
+      213: 4646481180196783858
+    second: UI_Fuente_Gris_36
+  - first:
+      213: 7158360007259737663
+    second: UI_Fuente_Gris_37
+  - first:
+      213: -2682615743582008020
+    second: UI_Fuente_Gris_38
+  - first:
+      213: 352520372136268343
+    second: UI_Fuente_Gris_39
+  - first:
+      213: -4947163336641714106
+    second: UI_Fuente_Gris_40
+  - first:
+      213: -2954408017322179344
+    second: UI_Fuente_Gris_41
+  - first:
+      213: -9082109332331136836
+    second: UI_Fuente_Gris_42
+  - first:
+      213: 3549711554137649900
+    second: UI_Fuente_Gris_43
+  - first:
+      213: -1689136234288128177
+    second: UI_Fuente_Gris_44
+  - first:
+      213: -72115295068598363
+    second: UI_Fuente_Gris_45
+  - first:
+      213: -3617530457633918809
+    second: UI_Fuente_Gris_46
+  - first:
+      213: -4527142841517470723
+    second: UI_Fuente_Gris_47
+  - first:
+      213: -577253517311335149
+    second: UI_Fuente_Gris_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 362.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821115123f44652e0800000000000000
+      internalID: -2137445162114019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d6cd2afbf06390800000000000000
+      internalID: -7826979100441521098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321d6c5100407f80800000000000000
+      internalID: -8110912554304466376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc426bda7791c920800000000000000
+      internalID: 3008852579982658782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bec03180f446af0800000000000000
+      internalID: -404111170458555639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5793413acaa7c640800000000000000
+      internalID: 5100232888407005018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a22723b9df47f0800000000000000
+      internalID: -626042459702253221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd71c1219f69e5e0800000000000000
+      internalID: -1879848700323201575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a2ed287ab328c0800000000000000
+      internalID: -4025168616610421839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31fc2acc4ed15510800000000000000
+      internalID: 1536253369300873533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3905d2516480ce30800000000000000
+      internalID: 4521759579416365373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb8646c6bcf862a0800000000000000
+      internalID: -6743862580046558214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130034e174158340800000000000000
+      internalID: 4865317451835900697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2fb46d07ffb3640800000000000000
+      internalID: 5060919466377605860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ce58bc06c5e290800000000000000
+      internalID: -7861659816570206907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1285e2f7ee7efcd90800000000000000
+      internalID: -7075181478053783519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa377e771efbf10800000000000000
+      internalID: 2287795040827977577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a2c0e4c0d037e0800000000000000
+      internalID: -1787699508063065913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb66362eb1187c0800000000000000
+      internalID: -4070941929021981925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39162fc7d65c4fb80800000000000000
+      internalID: -8361841534081801837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42f312afa4dbf90800000000000000
+      internalID: -6936305412920630064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d5ed9069916380800000000000000
+      internalID: -8979727541755063247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309eb6596e15963f0800000000000000
+      internalID: -907103799147239165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30390d25401969670800000000000000
+      internalID: 8545176790737392387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba0ce783d458e40800000000000000
+      internalID: 5658013411900959506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bca19078fe6208b0800000000000000
+      internalID: -5187461807457850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5fcc452cd5ee10800000000000000
+      internalID: 2226427643565136805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c151604e2392d650800000000000000
+      internalID: 6256224659228938691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05b4920d2bdf5b00800000000000000
+      internalID: 819614643568030991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348cb1c22497e760800000000000000
+      internalID: 7487115782526895161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0632473ba3ef392e0800000000000000
+      internalID: -2120071471489080480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8719b7937da077ba0800000000000000
+      internalID: -6091388051496660616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470c92642eacc8a0800000000000000
+      internalID: -6283455908792236216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e602f32fd411f90800000000000000
+      internalID: -6984715844238414256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b05fad7b13543e30800000000000000
+      internalID: 4482298906678350003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf0b2304decacf0800000000000000
+      internalID: -239555820173328957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6ca29e30e9b7040800000000000000
+      internalID: 4646481180196783858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e441fff7a975360800000000000000
+      internalID: 7158360007259737663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d8ceeb13f65cad0800000000000000
+      internalID: -2682615743582008020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7325545296764e400800000000000000
+      internalID: 352520372136268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64862a11825285bb0800000000000000
+      internalID: -4947163336641714106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f402f5bf85dff6d0800000000000000
+      internalID: -2954408017322179344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8742b6eadd5f180800000000000000
+      internalID: -9082109332331136836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2797fe9db134130800000000000000
+      internalID: 3549711554137649900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd30a5b8bfe88e0800000000000000
+      internalID: -1689136234288128177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af409e658bcffef0800000000000000
+      internalID: -72115295068598363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f29c1733fbcdc0800000000000000
+      internalID: -3617530457633918809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb06eb429b5c21c0800000000000000
+      internalID: -4527142841517470723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Fuente_Gris_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31520530cfe2df7f0800000000000000
+      internalID: -577253517311335149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3ec43acaa0dc550479bdf4d8249aa362
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UI_Fuente_Gris_0: -2137445162114019032
+      UI_Fuente_Gris_1: -7826979100441521098
+      UI_Fuente_Gris_10: 4521759579416365373
+      UI_Fuente_Gris_11: -6743862580046558214
+      UI_Fuente_Gris_12: 4865317451835900697
+      UI_Fuente_Gris_13: 5060919466377605860
+      UI_Fuente_Gris_14: -7861659816570206907
+      UI_Fuente_Gris_15: -7075181478053783519
+      UI_Fuente_Gris_16: 2287795040827977577
+      UI_Fuente_Gris_17: -1787699508063065913
+      UI_Fuente_Gris_18: -4070941929021981925
+      UI_Fuente_Gris_19: -8361841534081801837
+      UI_Fuente_Gris_2: -8110912554304466376
+      UI_Fuente_Gris_20: -6936305412920630064
+      UI_Fuente_Gris_21: -8979727541755063247
+      UI_Fuente_Gris_22: -907103799147239165
+      UI_Fuente_Gris_23: 8545176790737392387
+      UI_Fuente_Gris_24: 5658013411900959506
+      UI_Fuente_Gris_25: -5187461807457850188
+      UI_Fuente_Gris_26: 2226427643565136805
+      UI_Fuente_Gris_27: 6256224659228938691
+      UI_Fuente_Gris_28: 819614643568030991
+      UI_Fuente_Gris_29: 7487115782526895161
+      UI_Fuente_Gris_3: 3008852579982658782
+      UI_Fuente_Gris_30: -2120071471489080480
+      UI_Fuente_Gris_31: -6091388051496660616
+      UI_Fuente_Gris_32: -6283455908792236216
+      UI_Fuente_Gris_33: -6984715844238414256
+      UI_Fuente_Gris_34: 4482298906678350003
+      UI_Fuente_Gris_35: -239555820173328957
+      UI_Fuente_Gris_36: 4646481180196783858
+      UI_Fuente_Gris_37: 7158360007259737663
+      UI_Fuente_Gris_38: -2682615743582008020
+      UI_Fuente_Gris_39: 352520372136268343
+      UI_Fuente_Gris_4: -404111170458555639
+      UI_Fuente_Gris_40: -4947163336641714106
+      UI_Fuente_Gris_41: -2954408017322179344
+      UI_Fuente_Gris_42: -9082109332331136836
+      UI_Fuente_Gris_43: 3549711554137649900
+      UI_Fuente_Gris_44: -1689136234288128177
+      UI_Fuente_Gris_45: -72115295068598363
+      UI_Fuente_Gris_46: -3617530457633918809
+      UI_Fuente_Gris_47: -4527142841517470723
+      UI_Fuente_Gris_48: -577253517311335149
+      UI_Fuente_Gris_5: 5100232888407005018
+      UI_Fuente_Gris_6: -626042459702253221
+      UI_Fuente_Gris_7: -1879848700323201575
+      UI_Fuente_Gris_8: -4025168616610421839
+      UI_Fuente_Gris_9: 1536253369300873533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

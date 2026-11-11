@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9034114204527135841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2663302546230614313}
+  - component: {fileID: 1503686674209237102}
+  - component: {fileID: 4492345938680804199}
+  m_Layer: 0
+  m_Name: LevelSystems
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2663302546230614313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034114204527135841}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.57479, y: 1.71445, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1503686674209237102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034114204527135841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b238532df148304d94b24905eb75be2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScoreSystem
+  score: 0
+--- !u!114 &4492345938680804199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034114204527135841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc6f7fbb7bbd2a40856807aa829de61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScorePopupPool
+  popupPrefab: {fileID: 8617898378722776193, guid: e67c7fe4c3670b1498c681e00d37d67f, type: 3}
+  initialSize: 8
+  values:
+  - number: 100
+    sprite: {fileID: 9166601602352695114, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 200
+    sprite: {fileID: 8460485778025205943, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 300
+    sprite: {fileID: 283632050990097426, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 500
+    sprite: {fileID: -8225760800606051783, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 800
+    sprite: {fileID: -6407144756886828062, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 1000
+    sprite: {fileID: 9084457436732822480, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 1200
+    sprite: {fileID: 8994273966462787796, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 2000
+    sprite: {fileID: -951305230428053458, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 3000
+    sprite: {fileID: -6442057893458121812, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 5000
+    sprite: {fileID: 8787996353054929073, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  multipliers:
+  - number: 2
+    sprite: {fileID: 1459705643200774455, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 3
+    sprite: {fileID: 8508854293601364536, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 4
+    sprite: {fileID: 8245458317956847298, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}
+  - number: 5
+    sprite: {fileID: 6331232268437771451, guid: 140fcc1f18fd81e46987532e297d11ef, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce32fe86ebc5f740a4cde8bacb5d805, type: 3}
+  m_Name: PowerCoinConfig
+  m_EditorClassIdentifier: Assembly-CSharp::PowerCoinConfig
+  palette: {fileID: 11400000, guid: a5248f03c0113484a9e8165c2fc3413f, type: 2}
+  points: 64000000c80000002c010000f401000020030000b0040000d0070000
+  duration: 5
+  skinMaterial: {fileID: 2100000, guid: 2f9ebdeb3b6cf414fa9c10f3af6be492, type: 2}
+  skinChannelId: PowerupSkin
